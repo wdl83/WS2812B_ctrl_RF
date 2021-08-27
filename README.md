@@ -5,4 +5,4 @@
 ![pcb_bottom](v2/bottom.png)
 
 ## author:
-Wlodzimierz Lipert https://github.com/vlad83
+Wlodzimierz Lipert https://github.com/wdl83
